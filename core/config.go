@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/kgretzky/evilginx2/log"
+	"github.com/G66K-CODE/EVILG66k/log"
 
 	"github.com/spf13/viper"
 )

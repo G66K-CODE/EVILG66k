@@ -1,4 +1,4 @@
-module github.com/kgretzky/evilginx2
+module github.com/G66K-CODE/EVILG66k
 
 go 1.12
 

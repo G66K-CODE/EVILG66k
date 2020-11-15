@@ -16,7 +16,7 @@ About 2 months ago, I've released evilg66k 2. Since then, a lot of you reported 
 
 Your requests have been heard! I've finally managed to find some time during the weekend to address the most pressing matters.
 
-[>> Download evilg66k 2 from GitHub <<](https://github.com/kgretzky/evilginx2)
+[>> Download evilg66k 2 from GitHub <<](https://github.com/G66K-CODE/EVILG66k)
 Here is what has changed and how you can use the freshly baked features.
 
 Changelog - version 2.1
@@ -114,7 +114,7 @@ Keep posting issues you are having with creating your own phishlets as I'm sure 
 You can update by pulling latest changes to the master branch. I will post a binary release once I confirm that everything is stable.
 
 [>> Follow me on Twitter <<](https://twitter.com/mrgretzky)
-[>> Download evilg66k 2 from GitHub <<](https://github.com/kgretzky/evilginx2)
+[>> Download evilg66k 2 from GitHub <<](https://github.com/G66K-CODE/EVILG66k)
 I have some nice ideas still for upcoming releases like dynamic custom Javascript injection and forcing "Remember Me" check boxes by POST parameter injection.
 
 Hope you are liking evilg66k so far.
