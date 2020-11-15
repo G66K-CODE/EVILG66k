@@ -1,0 +1,14 @@
+After that, follow these steps:
+
+Modify /etc/hosts to map all phishing hostnames used by the phishlet with base domain localdomain.com to local IP addresss.
+X.X.X.X www.localdomain.com
+X.X.X.X sub1.localdomain.com
+X.X.X.X sub2.localdomain.com
+Put your self-signed public certificate with a private key in ~/.evilg66k/crt/localdomain.com/ naming them <phishlet>.crt (public cert) and <phishlet>.key (private key). Here is the listing that will give you an idea of the directory structure:
+# ls -al ~/.evilg66k/crt/localdomain.com/
+total 16
+drwx------  2 root root 4096 Aug  7 06:35 .
+drwx------ 26 root root 4096 Aug  7 06:35 ..
+-rw-------  1 root root 3924 Aug  7 06:35 amazon.crt
+-rw-------  1 root root 1679 Aug  7 06:35 amazon.key
+I'm not able to explain it in an easier way. Will probably add a feature for phishlet devs, in the future, to easily use self-signed certs for local development.
